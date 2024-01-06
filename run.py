@@ -10,4 +10,4 @@ def hello():
 
 # Run the Flask app
 if __name__ == '__main__':
-    app.run(debug=True, host='172.17.0.3', port=8080)
+    app.run(debug=True, host='172.17.0.3')
